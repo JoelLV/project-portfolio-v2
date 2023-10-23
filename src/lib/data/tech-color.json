@@ -1,0 +1,21 @@
+{
+    "HTML": "#f27127",
+    "CSS": "#27f2eb",
+    "JavaScript": "#ead300",
+    "PHP": "#327ef0",
+    "JQuery": "#0097ea",
+    "Yii2": "#ca2602",
+    "MariaDB": "#196995",
+    "Apache": "#e58f2b",
+    "Flutter": "#ff64a9",
+    "Dart": "#ff4c5e",
+    "Typescript": "#ff675a",
+    "ReactJS": "#ff32bf",
+    "C#": "#3cff26",
+    ".NET": "#ffe44f",
+    "SQLite": "#ffabf5",
+    "MySql": "#68e3ff",
+    "NestJS": "#ffaa49",
+    "Golang": "#664bff",
+    "Python": "#293df2"
+}

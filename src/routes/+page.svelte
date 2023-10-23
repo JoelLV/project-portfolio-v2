@@ -1,36 +1,48 @@
-<main class="flex flex-col gap-20 mt-16 justify-center">
+<script>
+	import LinkIconButton from '$lib/components/LinkIconButton.svelte';
+</script>
+
+<main class="flex flex-col gap-[8%] w-screen h-screen justify-center items-center absolute top-0">
 	<section
-		class="flex items-center gap-14 justify-center md:flex-row flex-col md:text-start text-center"
+		class="flex items-center gap-12 justify-center md:flex-row flex-col md:text-start text-center"
 	>
-		<div
-			class="bg-[url('profile_picture.jpg')] w-[250px] h-[250px] bg-center bg-no-repeat bg-cover rounded-full"
+		<img
+			src="profile-picture.jpg"
+			alt="My profile"
+			class="md:w-[250px] md:h-[250px] w-[200px] h-[200px] rounded-full"
 		/>
-		<div class="flex flex-col gap-3">
-			<h1 class="text-6xl text-primary font-medium text-shadow">Hi, I'm Joel</h1>
-			<h3 class="text-3xl text-primary opacity-60 font-medium text-shadow">Welcome to my Portfolio</h3>
+		<div class="flex flex-col gap-5">
+			<h1 class="text-4xl md:text-5xl text-primary font-medium [text-shadow:0px_3px_4px_gray]">
+				Hi, I'm Joel
+			</h1>
+			<h3
+				class="text-2xl mdtext-3xl text-primary opacity-60 font-medium [text-shadow:0px_3px_5px_gray]"
+			>
+				Welcome to my Portfolio
+			</h3>
 		</div>
 	</section>
 	<section class="flex justify-center gap-[8%] w-full">
-		<a href="https://github.com/JoelLV">
-			<div
-				class="md:h-[120px] md:w-[120px] h-[100px] w-[100px] bg-[url('github-logo.svg')] bg-center bg-no-repeat bg-contain cursor-pointer"
-			/></a
-		>
-		<a href="resume.doc" download
-			><div
-				class="md:h-[120px] md:w-[120px] h-[100px] w-[100px] bg-[url('resume-logo.svg')] bg-center bg-no-repeat bg-contain cursor-pointer"
-			/></a
-		>
-		<a href="https://www.linkedin.com/in/joel-lopez-villarreal-455a80225/"
-			><div
-				class="md:h-[120px] md:w-[120px] h-[100px] w-[100px] bg-[url('linkedin-logo.svg')] bg-center bg-no-repeat bg-contain cursor-pointer"
-			/></a
-		>
+		<LinkIconButton
+			link="https://github.com/JoelLV"
+			logoPath="github-logo.svg"
+			alt="Github link"
+			tooltipText="Visit my Github Page."
+			imgClass="md:h-[120px] md:w-[120px] h-[70px] w-[70px]"
+		/>
+		<LinkIconButton
+			link="resume.doc"
+			logoPath="resume-logo.svg"
+			alt="Resume download button"
+			tooltipText="Download my Resume"
+			imgClass="md:h-[120px] md:w-[120px] h-[70px] w-[70px]"
+		/>
+		<LinkIconButton
+			link="https://www.linkedin.com/in/joel-lopez-villarreal-455a80225/"
+			logoPath="linkedin-logo.svg"
+			alt="LinkedIn link"
+			tooltipText="Visit my LinkedIn page"
+			imgClass="md:h-[120px] md:w-[120px] h-[70px] w-[70px]"
+		/>
 	</section>
 </main>
-
-<style lang="postcss">
-    .text-shadow {
-        text-shadow: 2px 0px 2px gray;
-    }
-</style>
