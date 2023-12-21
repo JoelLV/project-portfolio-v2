@@ -19,7 +19,7 @@
 		<LinkIconButton
 			logoPath="resume-logo.svg"
 			alt="Resume download button"
-			link="resume.doc"
+			link="resume.pdf"
 			imgClass="w-16 h-16"
 			tooltipText="Download my resume"
 			download=""
@@ -32,7 +32,7 @@
 			tooltipText="Visit my LinkedIn page"
 		/>
 	</div>
-	<p class="w-full px-10 max-w-3xl">
+	<p class="w-full px-10 max-w-3xl text-primary">
 		Hello, my name is Joel, and I'm currently a Computer Science student at Southern Adventist
 		University. As you can see in my experience page where I post my most relevant projects and work
 		experiences, I'm very passionate in this field. My interests and expertise lie in backend

@@ -49,7 +49,7 @@
 		</div>
 		<TechFilterModal bind:toggledTechnologies />
 	</div>
-	<h1 class="text-primary text-2xl md:text-3xl">Most relevant work experience:</h1>
+	<h1 class="text-primary text-2xl md:text-3xl text-center mt-5 mb-10">Most relevant work experience</h1>
 
 	{#if filteredWorkObjs.length === 0}
 		<div class="flex text-primary w-full justify-center items-center h-16">
@@ -62,7 +62,7 @@
 			{/each}
 		</section>
 	{/if}
-	<h1 class="text-primary text-2xl md:text-3xl">Project Portfolio:</h1>
+	<h1 class="text-primary text-2xl md:text-3xl my-10 text-center">Project Portfolio</h1>
 	{#if filteredProjectObjs.length === 0}
 		<div class="flex text-primary w-full justify-center items-center h-16">
 			Nothing to see here...

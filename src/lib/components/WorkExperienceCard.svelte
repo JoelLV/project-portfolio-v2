@@ -23,7 +23,7 @@
 		/>
 	</div>
 	<div class="flex w-full">
-		<div class="bg-primary mx-6 w-[1px] rounded-full hidden lg:block" />
+		<div class="bg-primary mx-6 w-[1px] opacity-50 rounded-full hidden lg:block" />
 		<div class="flex flex-col w-full">
 			<div
 				class="flex flex-wrap justify-center lg:justify-normal gap-3 mb-2 max-h-40 overflow-auto [scrollbar-color:#004A73_transparent] [scrollbar-width:thin]"

@@ -31,11 +31,12 @@
 			imgClass="md:h-[120px] md:w-[120px] h-[70px] w-[70px]"
 		/>
 		<LinkIconButton
-			link="resume.doc"
+			link="resume.pdf"
 			logoPath="resume-logo.svg"
 			alt="Resume download button"
 			tooltipText="Download my Resume"
 			imgClass="md:h-[120px] md:w-[120px] h-[70px] w-[70px]"
+			download=""
 		/>
 		<LinkIconButton
 			link="https://www.linkedin.com/in/joel-lopez-villarreal-455a80225/"
