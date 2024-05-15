@@ -33,24 +33,22 @@
 		/>
 	</div>
 	<p class="w-full px-10 max-w-3xl text-primary">
-		Hello, my name is Joel, and I'm currently a Computer Science student at Southern Adventist
+		Hello, my name is Joel, and I'm a Computer Science graduate from Southern Adventist
 		University. As you can see in my experience page where I post my most relevant projects and work
 		experiences, I'm very passionate in this field. My interests and expertise lie in backend
 		development such as building web services, messing around with databases and microservices, and
-		building command line tools for automation. I'm also very interested in the area of Artificial
-		Intelligence, so you might expect a few AI projects popping up in the near future. One thing
-		that I do not enjoy a lot is frontend development, this may be because I do not have a lot of
-		artistic creativity, but at the end of the day, this is just a preference. <br /><br />
+		building command line tools for automation. Currently, I've been working a lot with the Golang
+		programming language, so expect a few more Golang projects popping up in the near future :D.<br /><br />
 		My interests do not only lie in Computer Science, however, as I see programming more of a job than
-		a hobby. My hobbies include watching TV series, playing Volleyball with friends, playing Cello and
-		Clarinet, hiking, swimming, playing casual videogames, and listening to classical music.
+		a hobby. My hobbies include playing Volleyball with friends, playing Cello and
+		Clarinet, hiking, swimming, and listening to classical music.
 		<br /><br />
 		As for work experience, I was an intern for one year and a half at a company named CIRC, where I
-		worked as a full stack php developer. For more information about the company and the tech stack that
+		worked as a full stack PHP developer. For more information about the company and the tech stack that
 		we used, please go to the "Experience" page. I also worked as a TA for two Computer Science courses
 		at my University: Essence of Computing and Fundamentals of Software Design, and also volunteered
 		to be part of the AV staff at my local church. <br /><br />
-		For academic accomplishments, I currently maintain a 4.0 GPA, was awarded the top achiever scholarship
-		twice, and was also one of the few receivers of the Dr. Rahn and Natalia Shaw scholarship.
+		For academic accomplishments, I maintained a 4.0 GPA throughout my college career, was awarded the top achiever scholarship
+		twice in a row, and was also one of the few receivers of the Dr. Rahn and Natalia Shaw scholarship.
 	</p>
 </main>
