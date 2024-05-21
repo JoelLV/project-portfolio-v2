@@ -21,12 +21,21 @@
             ]
         },
         {
-            "title": "My Professional Portfolio",
+            "title": "Old Professional Portfolio",
             "url": null,
             "githubUrl": "https://github.com/JoelLV/project_portfolio",
-            "description": "As you know, this website is my software engineer portfolio. Unlike a normal portfolio where the person uses only HTML, CSS, and JavaScript, I wanted to use a frontend technology that allowed me to build beautiful web apps in the least amount of time. This is why I opted to use Flutter web as my framework of choice. Though I admit that this may be overkill and not as robust as the other thousands of JavaScript frameworks and libraries out there, I wanted to use Flutter because I wanted to learn Dart and Flutter, and also did not want to spend a lot of time making the portfolio pretty since I'm a backend developer at heart and would rather spend my time building CLI tools and RESTful API's. This website (or web app?) contains a brief documentation of all my relevant projects and work experiences as well as important links such as my digital resume, LinkedIn page, and Github repository.",
+            "description": "Outside of work, I used Flutter and Dart to build a personal web portfolio. Even though using Flutter for a basic web portfolio may seem overkill, I wanted to use it just because I wanted to explore its web capabilities. For my current web portfolio, I used Sveltekit.",
             "technologies": [
                 "Flutter", "Dart"
+            ]
+        },
+        {
+            "title": "Current Professional Portfolio",
+            "url": "https://www.joellv.com/",
+            "githubUrl": "https://github.com/JoelLV/project-portfolio-v2",
+            "description": "This project is my current professional portfolio where I display all my projects. This project was also my first exposure to the SvelteKit framework and TailwindCSS.",
+            "technologies": [
+                "JavaScript", "SvelteKit", "TailwindCSS"
             ]
         },
         {

@@ -17,5 +17,7 @@
     "MySql": "#68e3ff",
     "NestJS": "#ffaa49",
     "Golang": "#664bff",
-    "Python": "#293df2"
+    "Python": "#293df2",
+    "SvelteKit": "#F3A505",
+    "TailwindCSS": "#015D52"
 }

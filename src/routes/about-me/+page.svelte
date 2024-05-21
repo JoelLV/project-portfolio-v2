@@ -39,9 +39,8 @@
 		development such as building web services, messing around with databases and microservices, and
 		building command line tools for automation. Currently, I've been working a lot with the Golang
 		programming language, so expect a few more Golang projects popping up in the near future :D.<br /><br />
-		My interests do not only lie in Computer Science, however, as I see programming more of a job than
-		a hobby. My hobbies include playing Volleyball with friends, playing Cello and
-		Clarinet, hiking, swimming, and listening to classical music.
+		My hobbies include playing Volleyball with friends, playing Cello and
+		Clarinet, hiking, swimming, listening to classical music, and, of course, programming.
 		<br /><br />
 		As for work experience, I was an intern for one year and a half at a company named CIRC, where I
 		worked as a full stack PHP developer. For more information about the company and the tech stack that
